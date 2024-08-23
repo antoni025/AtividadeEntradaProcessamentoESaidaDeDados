@@ -1,0 +1,14 @@
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade1ProcessamentoDeDados\bin\Debug\net8.0\Atividade1ProcessamentoDeDados.exe
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade1ProcessamentoDeDados\bin\Debug\net8.0\Atividade1ProcessamentoDeDados.deps.json
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade1ProcessamentoDeDados\bin\Debug\net8.0\Atividade1ProcessamentoDeDados.runtimeconfig.json
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade1ProcessamentoDeDados\bin\Debug\net8.0\Atividade1ProcessamentoDeDados.dll
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade1ProcessamentoDeDados\bin\Debug\net8.0\Atividade1ProcessamentoDeDados.pdb
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade1ProcessamentoDeDados\obj\Debug\net8.0\Atividade1ProcessamentoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade1ProcessamentoDeDados\obj\Debug\net8.0\Atividade1ProcessamentoDeDados.AssemblyInfoInputs.cache
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade1ProcessamentoDeDados\obj\Debug\net8.0\Atividade1ProcessamentoDeDados.AssemblyInfo.cs
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade1ProcessamentoDeDados\obj\Debug\net8.0\Atividade1ProcessamentoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade1ProcessamentoDeDados\obj\Debug\net8.0\Atividade1ProcessamentoDeDados.dll
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade1ProcessamentoDeDados\obj\Debug\net8.0\refint\Atividade1ProcessamentoDeDados.dll
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade1ProcessamentoDeDados\obj\Debug\net8.0\Atividade1ProcessamentoDeDados.pdb
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade1ProcessamentoDeDados\obj\Debug\net8.0\Atividade1ProcessamentoDeDados.genruntimeconfig.cache
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade1ProcessamentoDeDados\obj\Debug\net8.0\ref\Atividade1ProcessamentoDeDados.dll

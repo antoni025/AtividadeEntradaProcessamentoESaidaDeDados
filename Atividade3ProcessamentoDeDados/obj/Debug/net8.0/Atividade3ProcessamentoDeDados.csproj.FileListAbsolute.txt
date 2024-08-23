@@ -1,0 +1,14 @@
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade3ProcessamentoDeDados\bin\Debug\net8.0\Atividade3ProcessamentoDeDados.exe
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade3ProcessamentoDeDados\bin\Debug\net8.0\Atividade3ProcessamentoDeDados.deps.json
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade3ProcessamentoDeDados\bin\Debug\net8.0\Atividade3ProcessamentoDeDados.runtimeconfig.json
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade3ProcessamentoDeDados\bin\Debug\net8.0\Atividade3ProcessamentoDeDados.dll
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade3ProcessamentoDeDados\bin\Debug\net8.0\Atividade3ProcessamentoDeDados.pdb
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade3ProcessamentoDeDados\obj\Debug\net8.0\Atividade3ProcessamentoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade3ProcessamentoDeDados\obj\Debug\net8.0\Atividade3ProcessamentoDeDados.AssemblyInfoInputs.cache
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade3ProcessamentoDeDados\obj\Debug\net8.0\Atividade3ProcessamentoDeDados.AssemblyInfo.cs
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade3ProcessamentoDeDados\obj\Debug\net8.0\Atividade3ProcessamentoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade3ProcessamentoDeDados\obj\Debug\net8.0\Atividade3ProcessamentoDeDados.dll
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade3ProcessamentoDeDados\obj\Debug\net8.0\refint\Atividade3ProcessamentoDeDados.dll
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade3ProcessamentoDeDados\obj\Debug\net8.0\Atividade3ProcessamentoDeDados.pdb
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade3ProcessamentoDeDados\obj\Debug\net8.0\Atividade3ProcessamentoDeDados.genruntimeconfig.cache
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade3ProcessamentoDeDados\obj\Debug\net8.0\ref\Atividade3ProcessamentoDeDados.dll

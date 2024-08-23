@@ -1,0 +1,14 @@
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade4DeProcessamentoDeDados\bin\Debug\net8.0\Atividade4DeProcessamentoDeDados.exe
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade4DeProcessamentoDeDados\bin\Debug\net8.0\Atividade4DeProcessamentoDeDados.deps.json
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade4DeProcessamentoDeDados\bin\Debug\net8.0\Atividade4DeProcessamentoDeDados.runtimeconfig.json
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade4DeProcessamentoDeDados\bin\Debug\net8.0\Atividade4DeProcessamentoDeDados.dll
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade4DeProcessamentoDeDados\bin\Debug\net8.0\Atividade4DeProcessamentoDeDados.pdb
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade4DeProcessamentoDeDados\obj\Debug\net8.0\Atividade4DeProcessamentoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade4DeProcessamentoDeDados\obj\Debug\net8.0\Atividade4DeProcessamentoDeDados.AssemblyInfoInputs.cache
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade4DeProcessamentoDeDados\obj\Debug\net8.0\Atividade4DeProcessamentoDeDados.AssemblyInfo.cs
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade4DeProcessamentoDeDados\obj\Debug\net8.0\Atividade4DeProcessamentoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade4DeProcessamentoDeDados\obj\Debug\net8.0\Atividade4DeProcessamentoDeDados.dll
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade4DeProcessamentoDeDados\obj\Debug\net8.0\refint\Atividade4DeProcessamentoDeDados.dll
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade4DeProcessamentoDeDados\obj\Debug\net8.0\Atividade4DeProcessamentoDeDados.pdb
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade4DeProcessamentoDeDados\obj\Debug\net8.0\Atividade4DeProcessamentoDeDados.genruntimeconfig.cache
+C:\Users\antonio.aabarbosa\source\repos\ProcessamentoDeDados\Atividade4DeProcessamentoDeDados\obj\Debug\net8.0\ref\Atividade4DeProcessamentoDeDados.dll

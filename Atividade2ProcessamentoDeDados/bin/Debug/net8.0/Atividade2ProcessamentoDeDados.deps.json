@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Atividade2ProcessamentoDeDados/1.0.0": {
+        "runtime": {
+          "Atividade2ProcessamentoDeDados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade2ProcessamentoDeDados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
